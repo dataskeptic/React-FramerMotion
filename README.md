@@ -1,4 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## About the project
+
+This repository is a web app that uses React and framer motion to do interactive animations, you can clone the repository and run it on your machine.
 
 ## Available Scripts
 
